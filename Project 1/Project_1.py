@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Written by: Artur Arakelyan and Patrick Bowden
+Written by: Patrick Bowden
 
 We came up with this version after the first attempt to better match what the assignment wanted done, and to improve speed.
 """
